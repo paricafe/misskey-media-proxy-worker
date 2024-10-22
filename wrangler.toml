@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 ALLOW_ORIGIN = ""
-PROXY_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.2109.1"
+PROXY_USER_AGENT = "MisskeyProxy/328e"
 THIRD_PARTY_CLIENTS_USER_AGENT = ""
 VALIDATE_PATHNAME = false
 VALIDATE_SIGN = false

@@ -3,7 +3,7 @@ export const PROXY_CONFIG: Env & {
 } = {
 	ALLOW_ORIGIN: '',
 	BLACK_LIST_DOMAIN: [],
-	PROXY_USER_AGENT: '',
+	PROXY_USER_AGENT: 'MisskeyProxy/328e',
 	PROXY_KEY: '',
 	THIRD_PARTY_CLIENTS_USER_AGENT: [],
 	VALIDATE_PATHNAME: false,

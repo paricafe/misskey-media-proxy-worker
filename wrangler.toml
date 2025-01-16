@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 ALLOW_ORIGIN = ""
-PROXY_USER_AGENT = ""
+PROXY_USER_AGENT = "misskey/media-proxy-worker"
 THIRD_PARTY_CLIENTS_USER_AGENT = ""
 VALIDATE_PATHNAME = false
 VALIDATE_SIGN = false

@@ -9,10 +9,10 @@ export const PROXY_CONFIG: Env & {
 } = {
 	ALLOW_ORIGIN: '',
 	BLACK_LIST_DOMAIN: [],
-	PROXY_USER_AGENT: '',
+	PROXY_USER_AGENT: 'misskey/media-proxy-worker',
 	PROXY_KEY: '',
 	THIRD_PARTY_CLIENTS_USER_AGENT: [],
-	VALIDATE_PATHNAME: true,
+	VALIDATE_PATHNAME: false,
 	VALIDATE_SIGN: false,
 	VALIDATE_REFERER: false,
 	VALIDATE_USER_AGENT: false,
